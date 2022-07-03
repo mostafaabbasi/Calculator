@@ -14,5 +14,4 @@ Context calaculator = new Context(number1, number2, Operator);
 
 result = calaculator.Execute();
 
-
 Console.WriteLine("Result : {0}", result);
